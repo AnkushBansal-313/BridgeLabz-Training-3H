@@ -1,5 +1,5 @@
 package level_1;
-import java.util.Scanner;
+reimport java.util.Scanner;
 
 public class ArrayIndexOutOfBoundsDemo {
     static void generateException(String[] arr) {
